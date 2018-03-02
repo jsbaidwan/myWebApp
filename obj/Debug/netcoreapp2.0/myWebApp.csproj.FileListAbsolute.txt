@@ -1,0 +1,10 @@
+C:\Users\singjasp-cont\dotNetProjects\myWebApp\bin\Debug\netcoreapp2.0\myWebApp.deps.json
+C:\Users\singjasp-cont\dotNetProjects\myWebApp\bin\Debug\netcoreapp2.0\myWebApp.runtimeconfig.json
+C:\Users\singjasp-cont\dotNetProjects\myWebApp\bin\Debug\netcoreapp2.0\myWebApp.runtimeconfig.dev.json
+C:\Users\singjasp-cont\dotNetProjects\myWebApp\bin\Debug\netcoreapp2.0\myWebApp.dll
+C:\Users\singjasp-cont\dotNetProjects\myWebApp\bin\Debug\netcoreapp2.0\myWebApp.pdb
+C:\Users\singjasp-cont\dotNetProjects\myWebApp\obj\Debug\netcoreapp2.0\myWebApp.csproj.CoreCompileInputs.cache
+C:\Users\singjasp-cont\dotNetProjects\myWebApp\obj\Debug\netcoreapp2.0\myWebApp.AssemblyInfoInputs.cache
+C:\Users\singjasp-cont\dotNetProjects\myWebApp\obj\Debug\netcoreapp2.0\myWebApp.AssemblyInfo.cs
+C:\Users\singjasp-cont\dotNetProjects\myWebApp\obj\Debug\netcoreapp2.0\myWebApp.dll
+C:\Users\singjasp-cont\dotNetProjects\myWebApp\obj\Debug\netcoreapp2.0\myWebApp.pdb
