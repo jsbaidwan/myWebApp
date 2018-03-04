@@ -21,7 +21,7 @@ namespace myWebApp
         // This method gets called by the runtime. Use this met
         ex
         hod to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IHostingEnvironment env)
+        public void Configure(IApplicationBuilder app, IHostingEnstvironment env)
         {
             if (env.IsDevelopment())
             {
